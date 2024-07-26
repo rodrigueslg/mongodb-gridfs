@@ -1,4 +1,4 @@
-# Storing files with Mongodb GridFS
+# Storing files with MongoDB GridFS
 
 ## Starting Docker Containers
 
